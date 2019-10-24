@@ -1,0 +1,51 @@
+/* azul color="#4541d3" - texto destacado
+vermelho color="#cb302b" - titulos
+*/
+.titulo-principal{
+    padding-left: 20px;
+    color: blue;
+}
+
+#banner{
+    width: 100%
+}
+
+.principal{
+    background: #cccccc;
+    padding:15px;
+}
+
+.titulo-centralizado{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+#missao{
+    font-size: 20px;
+}
+
+em strong{
+    color: #cb302b;
+}
+
+.beneficios{
+    padding: 20px;
+}
+
+.imagem-beneficios{
+    width: 40%;
+}
+ul{
+    display: inline-block;
+    width: 40%;
+    vertical-align: top;
+    margin-right: 15%;
+}
+
+.itens{
+    font-style: italic
+}
+
